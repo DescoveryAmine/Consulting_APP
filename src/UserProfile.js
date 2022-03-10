@@ -40,6 +40,7 @@ class UserProfile extends Component {
 
     if (name === "user") {
       this.props.handleUserChange(val);
+      debugger;
       this.fetchUserInfo(val);
     }
   };
