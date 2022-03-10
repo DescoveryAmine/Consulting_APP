@@ -288,7 +288,7 @@ class App extends Component {
                     <PeopleIcon />
                   </ListItemIcon>
                   {/*this is were you can begin the work by changing Business search to Tech Search*/}
-                  <ListItemText primary="Business Search" />
+                  <ListItemText primary="Tech up" />
                 </ListItem>
                 <ListItem
                   button
